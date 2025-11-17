@@ -1,4 +1,4 @@
-– Project 1: DHCP Server with Windows 10 Client (Windows Server 2019)
+– Project 1: DHCP Server with Windows 10 Client and Windows Server 2019
 
 ## Project Overview
 This project demonstrates the deployment of a Windows Server 2019 DHCP environment in VMware Workstation Pro. The DHCP server is configured to automatically assign IP addresses to a Windows 10 client. The goal is to understand DHCP setup, IP management, and client integration in a virtualized network.
