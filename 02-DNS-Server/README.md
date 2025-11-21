@@ -29,11 +29,13 @@ Zone file: formation.local.dns
 
 
 2. DNS Records Created
+   
 the first record Dns
 
 Hostname :serveur1
 FQDN:serveur1.formation.local
 IP Address:192.168.1.3
+
 the second record Dns
 
 Hostname:www
